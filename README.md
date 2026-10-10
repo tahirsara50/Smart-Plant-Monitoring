@@ -41,5 +41,9 @@ This project uses an ESP32 to monitor plant conditions in real time.
 4. Upload `main.py` to the ESP32.
 5. Run the project and check your Adafruit IO dashboard.
 
+## Circuit Diagram
+
+![ESP32 Smart Plant Monitoring Circuit](circuit.png)
+
 **Security:** Never publish real passwords or API keys in a public repository.
 
