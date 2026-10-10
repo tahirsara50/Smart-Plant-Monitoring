@@ -43,7 +43,7 @@ This project uses an ESP32 to monitor plant conditions in real time by measuring
 
 ## Circuit Diagram
 
-![ESP32 Smart Plant Monitoring Circuit](circuit.png)
+![ESP32 Smart Plant Monitoring Circuit](CIRCUIT.png)
 
 ## Wokwi Simulation
 
